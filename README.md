@@ -18,7 +18,7 @@ apt install python
 
 sᴛᴇᴘ 4 :- 
 
-git clone https://github.com/EVIL_XD/evilxdip.git 
+git clone https://github.com/EVIL-XD/evilxdip.git 
 
 sᴛᴇᴘ 5 :- 
 
